@@ -4,7 +4,7 @@ Submitted by: **Selam Mitike**
 
 **Colorful** is an app that has a text box that allows users to answer the question above it. It also has a button below that changes the background color when clicked, the color choice is randomized.  
 
-Time spent: **5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
